@@ -1,0 +1,10 @@
+E:\source\MyRepository\MyRepository\AProject\AProject\bin\Debug\AProject.exe.config
+E:\source\MyRepository\MyRepository\AProject\AProject\bin\Debug\AProject.exe
+E:\source\MyRepository\MyRepository\AProject\AProject\bin\Debug\AProject.pdb
+E:\source\MyRepository\MyRepository\AProject\AProject\obj\Debug\AProject.csprojAssemblyReference.cache
+E:\source\MyRepository\MyRepository\AProject\AProject\obj\Debug\AProject.Form1.resources
+E:\source\MyRepository\MyRepository\AProject\AProject\obj\Debug\AProject.Properties.Resources.resources
+E:\source\MyRepository\MyRepository\AProject\AProject\obj\Debug\AProject.csproj.GenerateResource.cache
+E:\source\MyRepository\MyRepository\AProject\AProject\obj\Debug\AProject.csproj.CoreCompileInputs.cache
+E:\source\MyRepository\MyRepository\AProject\AProject\obj\Debug\AProject.exe
+E:\source\MyRepository\MyRepository\AProject\AProject\obj\Debug\AProject.pdb

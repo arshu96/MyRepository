@@ -16,5 +16,12 @@ namespace AProject
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var rand = new Random();
+
+            this.BackColor = Color.FromArgb(255, rand.Next(256), rand.Next(256), rand.Next(256));
+        }
     }
 }
